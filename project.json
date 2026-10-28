@@ -1,0 +1,20 @@
+{
+  "overview": "MIRAGE is a cinematic dark-luxury fragrance house site with an immersive hero, a perfume editorial, product pages and a working bag and checkout.",
+  "features": [
+    "Immersive full-screen fragrance hero campaign",
+    "Perfume editorial featuring NOCTURNE, VESPER and OBSIDIAN with scent notes",
+    "Fragrance product pages with selectable sizes",
+    "Shopping bag with persistent cart state",
+    "Demo checkout flow",
+    "Art-directed misaligned layouts on desktop and mobile"
+  ],
+  "category": "ecommerce",
+  "tags": [
+    "fragrance",
+    "luxury",
+    "editorial",
+    "dark",
+    "ecommerce"
+  ],
+  "last_updated": "2026-10-27T06:09:33.870Z"
+}
